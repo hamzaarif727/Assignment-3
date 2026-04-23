@@ -1,3 +1,5 @@
+//Part (b)
+
 import java.util.Scanner;
 public class ArrFuncIntToBin {
     static int[] IntToBin(int num) {
