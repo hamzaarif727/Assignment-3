@@ -1,3 +1,5 @@
+//Part (a)
+
 import java.util.Scanner;
 public class IntToBinary {
     public static void main(String[] args){
