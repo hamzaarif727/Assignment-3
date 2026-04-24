@@ -3,6 +3,10 @@
 import java.util.Scanner;
 public class intoBinaryStr {
     static String binaryString(int num){
+         if (num == 0) {
+            return "0";
+            }
+                
          String bin = "";
 
          while(num>0) {
