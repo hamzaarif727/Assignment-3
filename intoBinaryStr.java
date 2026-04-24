@@ -1,3 +1,5 @@
+//Part (c)
+
 import java.util.Scanner;
 public class intoBinaryStr {
     static String binaryString(int num){
